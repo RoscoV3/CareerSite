@@ -1,0 +1,69 @@
+@media screen and (min-width: 480px) {
+
+/*===================
+2 column layout
+====================*/
+
+#primary {
+    width: 50%;
+    float: left;
+}
+
+#secondary {
+    width: 40%;
+    float: right;
+}
+
+/*===================
+HEADER
+====================*/
+nav {
+    background: none;
+    float: right;
+    font-size: 1.125em;
+    margin-right: 5%;
+    text-align: right;
+}
+
+.masthead-brand {
+    float: left;
+    margin-left: 5%;
+    text-align: left;
+}
+
+h1 {
+    font-size: 1.40em;
+}
+
+h2 {
+    font-size: 0.825em;
+    margin-bottom: 20px;
+}
+
+header {
+    border-bottom: 5px solid #2b0000;
+    margin-bottom: 60px;
+}
+
+
+
+/*===================
+Page: Skills
+====================*/
+
+
+
+/*===================
+Page: About
+====================*/
+
+
+@media screen and (min-width: 660px) {
+
+/*===================
+HEADER
+====================*/
+
+}
+}
+}
