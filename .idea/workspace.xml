@@ -25,11 +25,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="-0.125" vertical-offset="635" max-vertical-offset="1455">
-                  <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+                <state vertical-scroll-proportion="0.4140625" vertical-offset="740" max-vertical-offset="1455">
+                  <caret line="67" column="42" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
                   <folding />
                 </state>
               </provider>
@@ -49,11 +49,11 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="cover.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="cover.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/cover.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state vertical-scroll-proportion="0.5873494" vertical-offset="435" max-vertical-offset="2805">
-                  <caret line="55" column="79" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
+                <state vertical-scroll-proportion="0.51957834" vertical-offset="1215" max-vertical-offset="2910">
+                  <caret line="104" column="24" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="24" />
                   <folding />
                 </state>
               </provider>
@@ -77,9 +77,9 @@
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/resume.html" />
         <option value="$PROJECT_DIR$/css/normalize.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/responsive.css" />
         <option value="$PROJECT_DIR$/css/cover.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -452,12 +452,12 @@
       <changelist id="3b28c030-ddcf-4ecd-99ab-61c9ff93b107" name="Default" comment="" />
       <created>1402167882431</created>
       <updated>1402167882431</updated>
-      <workItem from="1402167894782" duration="22565000" />
+      <workItem from="1402167894782" duration="24268000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22565000" />
+    <option name="totallyTimeSpent" value="24268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="774" extended-state="6" />
@@ -582,18 +582,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/cover.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.125" vertical-offset="635" max-vertical-offset="1455">
-          <caret line="37" column="31" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="31" />
+        <state vertical-scroll-proportion="0.51957834" vertical-offset="1215" max-vertical-offset="2910">
+          <caret line="104" column="24" selection-start-line="104" selection-start-column="24" selection-end-line="104" selection-end-column="24" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/cover.css">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5873494" vertical-offset="435" max-vertical-offset="2805">
-          <caret line="55" column="79" selection-start-line="55" selection-start-column="79" selection-end-line="55" selection-end-column="79" />
+        <state vertical-scroll-proportion="0.4140625" vertical-offset="740" max-vertical-offset="1455">
+          <caret line="67" column="42" selection-start-line="67" selection-start-column="42" selection-end-line="67" selection-end-column="42" />
           <folding />
         </state>
       </provider>
