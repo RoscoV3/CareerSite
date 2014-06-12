@@ -96,6 +96,7 @@ h2 {
 .masthead-nav {
     font-family: "Orbitron";
     text-align: center;
+    font-size: larger;
     padding: 10px 0;
     margin: 20px 0 0;
 }
@@ -103,6 +104,8 @@ h2 {
 .masthead-nav li {
     border: 2px solid;
     border-radius: 25px;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .masthead-nav > li {
@@ -149,8 +152,17 @@ Site Text
 }
 section p {
     text-align: left;
-    padding-left: 10px;
-    padding-right: 10px;
+    text-shadow: 5px 5px 5px black;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-sizing: border-box;
+    height: 150%;
+    border: 2px solid;
+    border-radius: 45px;
+    background: dimgrey;
+
 }
 
 /*
